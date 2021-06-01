@@ -1,0 +1,12 @@
+# Project exclude paths
+/springboot-02-config/target/
+/springboot-03-web/target/
+/springboot-04-data/target/
+/springboot-05-mybatis/target/
+/springboot-06-security/target/
+/springboot-07-shiro/shiro-01-hello/target/
+/springboot-08-swagger/target/
+/springboot-09-task/target/
+/springboot-10-redis/target/
+/springboot-11-dubbo/consumer-server/target/
+/springboot-11-dubbo/provider-server/target/
